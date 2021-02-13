@@ -37,7 +37,7 @@
                 Recuperaci&oacute;n de Datos
             </div>
         </div>
-            <div id="LecturasTableContainer" style="position: relative; text-align: center; font-size: 17px; top: 10px;">
+            <div id="LecturasTableContainer" style="position: relative; text-align: center; font-size: 40px; top: 10px;">
 
                 Fecha Inicio: <input type="text" name="fechaInicio" id="datepicker1"> <span>&nbsp;</span><span>&nbsp;</span>
                 Fecha Fin: <input type="text" name="fechaFin" id="datepicker2">
