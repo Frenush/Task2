@@ -10,9 +10,9 @@
     } else {
   %>
 <<<<<<< HEAD
-      <h2>my name: Frensis Marmelad </h2><p>(<%= num %>)</p>
+      <h2>Hello to my first jsp file</h2><p>(<%= num %>)</p>
 =======
-      <h2>Well, life goes on :))) ... </h2><p>(<%= num %>)</p>
+      <h2>my name: Frensis Marmelad </h2><p>(<%= num %>)</p>
 >>>>>>> cbff9b2cb0b30c662c5037b7f500baa7c65269c6
   <%
     }
